@@ -1,5 +1,8 @@
 # MANCALA GAME
 
+## Important
+This program incorporates numerous different Java formating and Object Oriented design practices -- such as polymorphism, interfaces, inheritence.
+
 ## Description
 
 Setup
