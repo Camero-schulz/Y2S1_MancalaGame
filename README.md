@@ -65,10 +65,6 @@ Your name and contact information including your email address
 * [StudentID] 1191172
 * [Email] cschul03@uoguelph.ca
 
-### State of Current Implementation
-- Loading players recognizes a player and loads it -- but doesn't display it
-- Player information cannot be saved
-- Create New Player button doesn't do anything
 
 
 ## Development History
